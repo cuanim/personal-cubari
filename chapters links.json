@@ -6,13 +6,13 @@
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130874-NgCtuj2nMGjM.jpg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Chapter 1",
       "volume": "1",
       "groups": {
         "Teru Teru Scans": "/proxy/api/imgur/chapter/qQ63X1H/"
       },
       "last_updated": "1616729885",
-    },
+    }
   }
 }
   
