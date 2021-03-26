@@ -1,0 +1,23 @@
+{
+  "title": "Sayonara Isekai, Mata Kite Ashita",
+  "description": "Finding himself lost and confused in a ruined world on the brink of collapse, Keisuke meets a young half-elf girl by the name of Nito. Nito seems to be searching for the "Golden Sea" as described in her mother's journal and Keisuke agrees to accompany her on her journey. The two set forth, meeting and parting with all kinds of people...",
+  "artist": "kesima",
+  "author": "Kazamidori",
+  "cover": "<https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130874-NgCtuj2nMGjM.jpg>",
+  "chapters": {
+    "1": {
+      "title": "Teru Teru Scans",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/qQ63X1H/"
+      },
+      "1.2": {
+      "title": "Pair of 2+",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/S4rAALH/"
+      },
+      "last_updated": "1616729885"
+    },
+  }
+}
