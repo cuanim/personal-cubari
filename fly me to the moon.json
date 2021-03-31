@@ -1,0 +1,16 @@
+{
+  "title": "Fly me to the moon",
+  "description": "",
+  "artist": "Hata Kenjiro",
+  "author": "Hata Kenjiro",
+  "cover": "https://i.imgur.com/JEpurC6.jpg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {"Tonikaku Scans": "/proxy/api/imgur/chapter/bgs7mqP/"},
+      "last_updated": "1617164370"
+    }
+  }
+}
+  
